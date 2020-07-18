@@ -24,13 +24,20 @@ Initially, all the sensors are tested and the pins are connected to the pins of 
 
 Connections: 
 
-GPS TX -----------> Arduino RX Pin 0
-GSM TX -----------> Arduino Pin 8
-GSM RX -----------> Arduino Pin 9
-MQ2 --------------> Arduino A0 Pin for analog 
-LCD Panel --------> Pin 4,5,6,7,11,12
-Flame Sensor -----> Pin 2
-Buzzer -----------> Pin 13
+GPS TX -----------> Arduino RX Pin 0,
+
+GSM TX -----------> Arduino Pin 8,
+
+GSM RX -----------> Arduino Pin 9,
+
+MQ2 --------------> Arduino A0 Pin for analog,
+
+LCD Panel --------> Pin 4,5,6,7,11,12,
+
+Flame Sensor -----> Pin 2,
+
+Buzzer -----------> Pin 13,
+
 DHT 11 -----------> Pin 3
 
 
