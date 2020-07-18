@@ -43,6 +43,12 @@ DHT 11 -----------> Pin 3
 
 Attach the sensors and upload the code, you can get the project running. 
 
+JUST A SMALL GLIMPSE OF MY PROJECT
+
+![Image 2](https://user-images.githubusercontent.com/47684759/87859062-1e3b7080-c950-11ea-946b-5763eb576a69.jpg)
+
+![Image 1](https://user-images.githubusercontent.com/47684759/87859083-3dd29900-c950-11ea-93ca-34bec8b1e2a1.jpg)
+
 
 FOr any queries mail me. 
 
